@@ -28,6 +28,9 @@ The two graphs below compare the frequency of low income households as well as t
 ![Data-1](https://github.com/user-attachments/assets/d969750b-693d-4580-a558-34b901167716)
 ![Data-2](https://github.com/user-attachments/assets/036139bd-2759-4dd1-a4b8-d9d91de3f31c)
 
+## What's Next?
+
+
 ### Acknowledgements
 This repository was created for Prof. Gotzler's ENGL-105.075 class, as a project for our unit on writing in the Natural Sciences. All data is publicly accessible and subset data was created using [Google Colab](https://colab.research.google.com)
 
