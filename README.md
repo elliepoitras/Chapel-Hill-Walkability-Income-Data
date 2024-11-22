@@ -3,7 +3,7 @@
 This repository contains data about walkability scores in the region of Chapel Hill-Durham correlated with income statistics. 
 
 ## Purpose
-What is this data for?
+Estimating a town's walkability is very important for a variety of reasons, such as judging urban sprawl in an area. It is important to see if there is a correlation between poor walkability and low income in a particular area. By deciding if there is a correlation, it can help developers plan to addrees the discrepancies in accessibility.
 
 ## Provenance
 Sources of Data:
@@ -20,13 +20,12 @@ While this relationship can be derived from a variety of factors, such as gentri
 This relationship shows us the need to make the walkability of areas more equitable. Possible solutions include the implementation of 15 minute cities and changing zoning to allow for more mixed use. This would invite a variety of communities to live near one another.
 
 ### Visualization
+Below shows the direct correltation between the ranking of walkability and the percentage of low income people in the area. 
 ![Data](https://github.com/user-attachments/assets/c1291508-5e68-4344-874a-41576a051096)
+The two graphs below compare the frequency of low income households as well as the walkability of the area. As seen in this graph, there is a relationship between the two variables as they match one another in frequency. Both graphs skew right, peaking in frequency on the lower half of the x-axis
 ![Data-1](https://github.com/user-attachments/assets/d969750b-693d-4580-a558-34b901167716)
 ![Data-2](https://github.com/user-attachments/assets/036139bd-2759-4dd1-a4b8-d9d91de3f31c)
 
 ### Acknowledgements
-This repository was created for Prof. Gotzler's ENGL-105.075 class, as a project for our unit on writing in the Natural Sciences. All data is publicly accessible [add permissions statement)
+This repository was created for Prof. Gotzler's ENGL-105.075 class, as a project for our unit on writing in the Natural Sciences. All data is publicly accessible and subset data was created using [Google Colab](https://colab.research.google.com)
 
-#### Licensing
-Add CC-BY License
-Add MIT License 
