@@ -22,6 +22,7 @@ This relationship shows us the need to make the walkability of areas more equita
 ### Visualization
 Below shows the direct correltation between the ranking of walkability and the percentage of low income people in the area. 
 ![Data](https://github.com/user-attachments/assets/c1291508-5e68-4344-874a-41576a051096)
+
 The two graphs below compare the frequency of low income households as well as the walkability of the area. As seen in this graph, there is a relationship between the two variables as they match one another in frequency. Both graphs skew right, peaking in frequency on the lower half of the x-axis
 ![Data-1](https://github.com/user-attachments/assets/d969750b-693d-4580-a558-34b901167716)
 ![Data-2](https://github.com/user-attachments/assets/036139bd-2759-4dd1-a4b8-d9d91de3f31c)
