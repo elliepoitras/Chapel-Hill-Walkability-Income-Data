@@ -1,4 +1,4 @@
-# Chapel Hill-Durham Walkability Income Data
+# Walkability and Socioeconomic Disparities: An Analysis of Chapel Hill and Durham
 
 This repository contains data about walkability scores in the region of Chapel Hill-Durham correlated with income statistics. 
 
