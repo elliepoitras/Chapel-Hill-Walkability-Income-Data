@@ -30,7 +30,7 @@ The two graphs below compare the frequency of low income households as well as t
 
 ## What's Next?
 * To access step-by-step coding instructions, click on the folder titled 'analysis' and click on the file located in that folder.
-* To see the subset that was created, click the folder 'data' and click on the file titled 'feeder1.numbers'
+* To see the subset that was created, click the folder 'data' and click on the file titled 'SubsetDataChart'.
 
 ### Acknowledgements
 This repository was created for Prof. Gotzler's ENGL-105.075 class, as a project for our unit on writing in the Natural Sciences. All data is publicly accessible and subset data was created using [Google Colab](https://colab.research.google.com)
