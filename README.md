@@ -12,7 +12,7 @@ Sources of Data:
 - [Description of Variables](https://www.epa.gov/smartgrowth/smart-location-mapping)
 - [User Guide](https://www.epa.gov/sites/default/files/2021-06/documents/national_walkability_index_methodology_and_user_guide_june2021.pdf)
 
-Important: Original dataset is too large to be uploaded into Github, to download data set [click this] (https://edg.epa.gov/EPADataCommons/public/OA/WalkabilityIndex.zip)
+Important: Original dataset is too large to be uploaded into Github, to download data set [click here](https://edg.epa.gov/EPADataCommons/public/OA/WalkabilityIndex.zip)
 
 ## Potential
 This data and its analysis offers insight into the correlation betwen Chapel Hill-Durham's walkability and poverty levels. Although these two cities are higher income, this data still shows the trend between walkability and income in an area. As seen below, when the walkability score is lower (worse), the income of an area is lower as well. From this, a positive linear relationship can be drawn, the better the walkability score, the higher the income of the residents that live there. 
